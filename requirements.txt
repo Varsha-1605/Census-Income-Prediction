@@ -4,3 +4,4 @@ pandas
 catboost
 plotly
 matplotlib
+scikit-learn
